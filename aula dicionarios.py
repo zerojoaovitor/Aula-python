@@ -33,8 +33,8 @@ teste1 = [{'nome': 'thais chata',       'idade': '45 anos',  'sexo': 'F'},    #p
           {'nome': 'joão super legal',  'idade': '19 anos',  'sexo': 'M'},    #posição 1
           {'nome': 'flavinho do penel', 'idade': '20 anos',  'sexo': 'M'}]    #posição 2
 
-print(teste1[]['nome'])
-print(teste1[]['sexo'])
+print(teste1[0]['nome'])
+print(teste1[1]['sexo'])
 
 
 space()
